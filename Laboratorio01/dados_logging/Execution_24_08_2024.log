@@ -1,0 +1,28 @@
+2024-08-24 10:05:57,629 INFO Opção 1 executada
+2024-08-24 10:06:37,419 INFO Opção 1 executada
+2024-08-24 12:21:38,687 INFO Classe: main - Opcão 1 finalizada.
+2024-08-24 12:21:38,688 INFO Classe: main - Opcão 2 finalizada.
+2024-08-24 12:23:29,372 INFO Classe: main - Opção inválida. Tente novamente.
+2024-08-24 12:23:32,347 INFO Classe: main - Opcão 1 finalizada.
+2024-08-24 12:23:32,348 INFO Classe: main - Opcão 2 finalizada.
+2024-08-24 12:23:44,209 INFO Classe: main - Opcão 2 iniciada.
+2024-08-24 12:24:47,478 INFO Classe: main - Opcão 2 iniciada.
+2024-08-24 12:24:47,480 INFO Classe: main - Iniciando método lab01s02...
+2024-08-24 12:24:47,973 ERROR Classe: main - Falha ao acessar a API: 401
+2024-08-24 12:27:56,811 INFO Classe: main - Opcão 2 iniciada.
+2024-08-24 12:27:56,813 INFO Classe: main - Iniciando método lab01s02...
+2024-08-24 12:28:07,650 ERROR Classe: main - Falha ao acessar a API: 502
+2024-08-24 12:29:48,706 INFO Classe: main - Opcão 2 iniciada.
+2024-08-24 12:29:48,707 INFO Classe: main - Iniciando método lab01s02...
+2024-08-24 12:29:59,471 ERROR Classe: main - Falha ao acessar a API: 502
+2024-08-24 12:35:56,863 INFO Classe: main - Opcão 1 iniciada.
+2024-08-24 12:35:56,863 INFO Classe: main - Iniciando método lab01s01...
+2024-08-24 12:39:48,382 INFO Classe: main - Opcão 1 iniciada.
+2024-08-24 12:39:48,384 INFO Classe: main - Iniciando método lab01s01...
+2024-08-24 15:26:50,160 INFO Classe: main - Opcão 1 iniciada.
+2024-08-24 15:26:50,161 INFO Classe: main - Iniciando método lab01s01...
+2024-08-24 15:27:14,255 ERROR Classe: main - Falha ao acessar a API: 502
+2024-08-24 15:35:47,038 INFO Classe: main - Opcão 1 iniciada.
+2024-08-24 15:35:47,041 INFO Classe: main - Iniciando método lab01s01...
+2024-08-24 15:56:02,171 INFO Classe: main - Opcão 1 iniciada.
+2024-08-24 15:56:02,172 INFO Classe: main - Iniciando método lab01s01...
