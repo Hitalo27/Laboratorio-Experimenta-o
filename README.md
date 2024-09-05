@@ -10,7 +10,7 @@ O objetivo principal deste trabalho é analisar se existem padrões entre sistem
 
 ## Metodologia
 
-Para conduzir a análise, foram coletados dados de 900 repositórios populares no GitHub, utilizando as seguintes métricas:
+Para conduzir a análise, foram coletados dados de 1000 repositórios populares no GitHub, utilizando as seguintes métricas:
 
 - **Idade do Repositório**: Avalia a maturidade dos projetos.
 - **Número de Pull Requests Aceitas**: Mede a contribuição externa.
@@ -21,12 +21,12 @@ Para conduzir a análise, foram coletados dados de 900 repositórios populares n
 
 ## Resultados Principais
 
-- **Maturidade**: A idade mediana dos repositórios populares é de 9 anos, sugerindo que muitos desses projetos têm uma longa história de desenvolvimento.
-- **Contribuição Externa**: A mediana do total de pull requests aceitas é de 21, indicando um nível moderado de contribuição externa.
-- **Frequência de Releases**: A mediana de releases é de 29, o que mostra um histórico ativo de lançamentos.
+- **Maturidade**: A idade mediana dos repositórios populares é de 8 anos, sugerindo que muitos desses projetos têm uma longa história de desenvolvimento.
+- **Contribuição Externa**: A mediana do total de pull requests aceitas é de 15, indicando um nível moderado de contribuição externa.
+- **Frequência de Releases**: A mediana de releases é de 0, o que mostra um histórico pouco ativo de lançamentos.
 - **Atualizações Frequentes**: O tempo mediano desde a última atualização é de apenas 1 dia, mostrando que esses repositórios são frequentemente mantidos.
 - **Linguagens Populares**: Python, JavaScript e TypeScript são as linguagens mais frequentemente utilizadas.
-- **Gestão de Issues**: A mediana da razão de issues fechadas é de 0.5, indicando que aproximadamente metade das issues abertas são resolvidas.
+- **Gestão de Issues**: A mediana da razão de issues fechadas é de 0.6, indicando que aproximadamente metade das issues abertas são resolvidas.
 
 ## Discussão
 
